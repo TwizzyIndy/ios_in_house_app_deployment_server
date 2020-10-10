@@ -1,0 +1,10 @@
+.DS_Store
+*.pem
+.idea/
+venv/
+*.plist
+*.ipa
+*.log
+*.png
+*.ico
+
